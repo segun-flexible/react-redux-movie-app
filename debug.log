@@ -1,0 +1,3 @@
+movie.backdrop_path
+? `https://image.tmdb.org/t/p/original/${movie.backdrop_path}`: `https://image.tmdb.org/t/p/original/${movie.poster_path}`? movie.poster_path: "https://image.tmdb.org/t/p/original//p0UpMWsISGexlFccIg4baEjyj76.jpg"[0918/151513.119:ERROR:settings.cc(258)] Settings magic is not 1129342067
+[0918/191505.114:ERROR:settings.cc(258)] Settings magic is not 1129342067
